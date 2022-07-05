@@ -5,10 +5,20 @@
 }
 
 body {
+    overflow: hidden;
+    color: rgb(231, 231, 241);
     text-align: center;
-    margin-top: 10%;
-    background-color: rgb(255, 251, 0);
+    margin-top: -3%;
+    background-color: #323232;
     font-size: 20px;
+    width: 80%;
+    left: 90px;
+    position: absolute; 
+}
+img {
+    width: 50%;
+    margin-bottom: 3%;
+   
 }
 
 .h1{

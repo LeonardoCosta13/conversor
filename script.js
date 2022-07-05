@@ -5,7 +5,7 @@ function calcular() {
 
     let resultado = Moedareal / 5.38
     
-    document.getElementById("valorFinal").innerText = String(`Voce vai ter $${resultado.toFixed(2)}`);
+    document.getElementById("valorFinal").innerText = String(`Valor em $${resultado.toFixed(2)}`);
 }
 
 
@@ -14,5 +14,5 @@ function calcular2() {
 
     let resultado2 = Moedareal2 / 5.53
     
-    document.getElementById("valorFinal2").innerText = String(`Voce vai ter €${resultado2.toFixed(2)}`);
+    document.getElementById("valorFinal2").innerText = String(`Valor em €${resultado2.toFixed(2)}`);
 }
