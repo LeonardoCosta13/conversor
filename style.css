@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    margin-top: 10%;
+    background-color: rgb(255, 251, 0);
+    font-size: 20px;
+}
+
+.h1{
+    position: relative;
+}
+
+.realL {
+    margin-top: 25px;
+   
+}
